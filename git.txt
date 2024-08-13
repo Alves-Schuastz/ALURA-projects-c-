@@ -1,0 +1,12 @@
+git clone [url]
+clona um repositorio git, ou seja, faz uma copia do repositorio da url
+na sua maquina
+
+git add [file] / . (para adicionar tudo):
+comando pra adicionar ou atualizar arquivos para seu commit(proximo passo)
+
+git commit -m "sua mensagem":
+e um commit :)
+
+git log:
+mostra o historico de comits realizados
